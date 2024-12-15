@@ -1,0 +1,11 @@
+io\wisp\holoitemclear\manager\ParticleManager.class
+io\wisp\holoitemclear\config\ConfigProvider.class
+io\wisp\holoitemclear\runnable\ClearTimer.class
+io\wisp\holoitemclear\manager\SoundManager.class
+io\wisp\holoitemclear\data\DroppedItemData.class
+io\wisp\holoitemclear\data\impl\ItemListener.class
+io\wisp\holoitemclear\utils\Colorize.class
+io\wisp\holoitemclear\commands\PluginCommands.class
+io\wisp\holoitemclear\config\CommonConfig.class
+io\wisp\holoitemclear\Main.class
+io\wisp\holoitemclear\manager\item\ItemManager.class
